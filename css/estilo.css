@@ -1,7 +1,11 @@
 body {
     background-color: lightblue;
-    background-image: url("paper.gif");
 }
 .logo {
     width: 40px;
+}
+
+#productos images {
+    width: 100%;
+    height: 300px;
 }
