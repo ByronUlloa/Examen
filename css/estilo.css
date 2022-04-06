@@ -1,0 +1,7 @@
+body {
+    background-color: lightblue;
+    background-image: url("paper.gif");
+}
+.logo {
+    width: 40px;
+}
