@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	margin: 0;
 }
+
 .contenedor{
 	display: flex;
 	max-width: 100%;
